@@ -49,6 +49,85 @@
       "size": 1048576,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00466.png"
-    }
+    },
+	"https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.Wyatt.Sicks.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE 25 Wyatt Sicks Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://images.g2a.com/323x433/1x1x1/wwe-2k25-wyatt-sicks-pack-p10000513658/560e74f0071f4889b9775fda"
+  },
+  "https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.Wrestlemania.41.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE 25 WM 41 Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3401620/e085c5b431b5bc990244519f3552301003319c86/header.jpg?t=1754324297"
+  },
+  "https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.The.Bloodline.Edition.Bonus.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE 25 The Bloodline Edition Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3401610/header.jpg?t=1741907076"
+  },
+  "https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.Fearless.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE 25 Fearless Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3401670/45d3e5d850c3c313cb09833d020d0e440d36bbf7/header.jpg?t=1754324289"
+  },
+  "https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.Farewell.Tour.Edition.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE 25 Farewell Tour Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3934190/999c628c9da892efd59500e46e69b9038348a3db/header.jpg?t=1761227326"
+  },
+  "https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.Dunk.and.Destruction.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE Dunk & Destruction Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3401660/37f0c5ddd2db4c6cf92ccbb2b1f751a56c7197f7/header.jpg?t=1750870708"
+  },
+  "https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.Deadman.Edition.Bonus.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE 25 Deadmen Edition Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3401590/header.jpg?t=1747238594"
+  },
+  "https://vikingfile.com/d/lRM3Zs9KTZ/WWE.2K25.CUSA48575.Attitude.Era.Superstars.Pack-Isagi.pkg": {
+      "title_id": "CUSA48575",
+      "region": "USA",
+      "name": "WWE 25 Attiude Era Pack",
+      "version": "",
+      "release": "",
+      "size": null,
+      "min_fw": "9.00",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3401680/b0a935725667f6e200188bf8ad5379b8a891d2e0/header.jpg?t=1758128094"
   }
 }
