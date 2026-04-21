@@ -8680,8 +8680,8 @@
       "size": 39000000,
       "min_fw": "9.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp"
- },
-"https://vikingfile.com/d/nqsQRLG58e/EA.SPORTS.FC.25_CUSA46399_v1.00_[11.00]_OPOISSO893.pkg": {
+    },
+    "https://vikingfile.com/d/nqsQRLG58e/EA.SPORTS.FC.25_CUSA46399_v1.00_[11.00]_OPOISSO893.pkg": {
       "title_id": "CUSA46399",
       "region": "EUR",
       "name": "EA SPORTS FC 25",
@@ -8690,5 +8690,6 @@
       "size": 41790000,
       "min_fw": "9.00",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EA-SPORTS-FC-25-PS4-PKG-1.webp"
- }
+    }
+  }
 }
