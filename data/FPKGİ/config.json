@@ -30,7 +30,7 @@
       "PS1": null,
       "PS2": null,
       "PSP": null,
-      "PS5": null,
+      "PS5": "https://raw.githubusercontent.com/ardacy2112/fpkgi-data-all-games/refs/heads/main/PS5.json",
       "games": "https://raw.githubusercontent.com/ardacy2112/fpkgi-data-all-games/refs/heads/main/GAMES.json",
       "apps": "https://raw.githubusercontent.com/ardacy2112/fpkgi-data-all-games/refs/heads/main/APPS.json",
       "updates": "https://raw.githubusercontent.com/ardacy2112/fpkgi-data-all-games/refs/heads/main/UPDATES.json",
