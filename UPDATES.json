@@ -8,24 +8,6 @@
             "size": 49520000,
             "min_fw": 9.00,
             "cover_url": "https://www.superpsx.com/wp-content/uploads/2025/03/WWE-2K25-PS4-PKG.webp"
-        },
-        "https://vikingfile.com/d/nqsQRLG58e/EA.SPORTS.FC.25_CUSA46399_Unlock_OPOISSO893.pkg": {
-            "region": "EUR",
-            "name": "EA SPORTS FC 25 UNLOCK ALL",
-            "version": "1.00",
-            "release": "20-09-2024",
-            "size": 1024,
-            "min_fw": 9.00,
-            "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EA-SPORTS-FC-25-PS4-PKG-1.webp"
-        },
-        "https://vikingfile.com/d/YtMWIIjnYC/%5BSuperPSX%5D-EA.SPORTS.FC.25_CUSA46399_v1.25_BACKPORT_%5B5.05-6.72-7.xx%5D_PS4.pkg": {
-            "region": "EUR",
-            "name": "EA SPORTS FC 25 v1.27 Update",
-            "version": "1.27",
-            "release": "20-09-2024",
-            "size": 5450000,
-            "min_fw": 9.00,
-            "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/09/EA-SPORTS-FC-25-PS4-PKG-1.webp"
-        }          
+        }    
     }
 }
